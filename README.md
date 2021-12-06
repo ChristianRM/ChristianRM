@@ -14,11 +14,14 @@
 
 ### :smiley: About me
 ---
+
+<img src='https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif' align='left'>
+
 Fullstack software developer, started in 2015 as a backend developer and database admin 
 and been gradually learning and applying new technologies on the projects ive worked on.
 I consider myself passionate about technology and software development with attention to detail and an analytical mindset.
 
-“You miss 100% of the shots you don’t take – Wayne Gretzky – Michael Scott”
+Im currently working as a web developer at <a href="https://www.go-sharp.ai/">Go-Sharp</a>. Feel free to connect or contact me if you have any questions.
 
 ### 🔧 Tools & Technologies
 
