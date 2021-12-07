@@ -21,7 +21,7 @@ Fullstack software developer, started in 2015 as a backend developer and databas
 and been gradually learning and applying new technologies on the projects ive worked on.
 I consider myself passionate about technology and software development with attention to detail and an analytical mindset.
 
-Im currently working as a web developer at <a href="https://www.go-sharp.ai/">Go-Sharp</a>. Feel free to connect or contact me if you have any questions.
+Feel free to connect or contact me if you have any questions.
 
 ### 🔧 Tools & Technologies
 
