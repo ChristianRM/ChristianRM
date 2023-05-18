@@ -15,13 +15,15 @@
 ### :smiley: About me
 ---
 
-<img src='https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif' align='left'>
+<p align='center'>
+<img src='https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif' >
 
 Fullstack software developer, started in 2015 as a backend developer and database admin 
 and been gradually learning and applying new technologies on the projects ive worked on.
 I consider myself passionate about technology and software development with attention to detail and an analytical mindset.
 
 Feel free to connect or contact me if you have any questions.
+</p>
 
 ### 🔧 Tools & Technologies
 
