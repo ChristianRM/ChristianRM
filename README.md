@@ -1,9 +1,11 @@
-# 👋 Hi, I’m @ChristianRM | Senior Software Engineer
----
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?color=%232E11FF&center=true&vCenter=true&width=600&lines=Software+Architecture+%F0%9F%8F%97%EF%B8%8F;GCP+Certified+Engineer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9"></h1>
+<h1 align="center">Christian Rincón | Senior Software Engineer</h1>
 
-<h1 align=center>
-<a href="https://www.linkedin.com/in/christian-rincon-47638120b/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E11FF&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architecture;GCP+Certified+Engineer;Event-Driven+Solutions;High-Availability+Design">
+</h1>
+
+<h1 align="center">
+<a href="https://www.linkedin.com/in/christian-rincon-dev" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:christian.r.m.job@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </h1>
 
@@ -18,25 +20,33 @@
 
 ### ⚡ Professional Overview
 ---
-Senior Software Engineer with 9+ years of experience building scalable systems. Focused on Backend architecture, Cloud Infrastructure, and performance optimization. 
 
-- 🛠️ **Seniority:** Expert in delivering production-grade code and system design.
-- ☁️ **Cloud:** Google Cloud Platform specialist (Associate Cloud Engineer).
-- 🧠 **Growth:** Currently mastering advanced algorithms and system design (NeetCode 150).
+**Senior Software Engineer | High-Performance System Architecture**
+
+9+ years of experience leading the design and implementation of high-throughput distributed systems. I specialize in **Architectural Strategy** and **Declarative System Design**, building scalable metadata engines and event-driven infrastructures that transform complex business requirements into high-availability technical solutions.
+
+* **Engineering Excellence:** Proven track record in performance engineering and sub-second latency optimization for enterprise-grade platforms.
+* **Cloud Strategy:** GCP Associate Cloud Engineer focused on high-availability and cost-effective cloud-native infrastructure.
+* **Technical Leadership:** Driving architectural direction, implementing scalable configuration strategies, and mentoring teams on distributed system patterns.
 
 ### 🏗️ Featured Projects
 ---
-* **[VSCode Extension: Express Skeleton](https://marketplace.visualstudio.com/items?itemName=ChristianRM.express-skeleton)** * *Productivity tool for backend scaffolding with **5,800+ downloads**.*
-* **[Accident Severity Analysis](https://medium.com/@chris.ricardo.r.m/ibm-capstone-project-accident-severity-report-644224af9820)** * *Data Science - Predictive modeling project focused on data-driven decision making.*
+
+* **[VSCode Extension: Express Skeleton](https://marketplace.visualstudio.com/items?itemName=ChristianRM.express-skeleton)**
+  * *Architectural tool for standardized backend scaffolding and boilerplate reduction.*
+  * **Impact:** **5,800+ installs** on the VSCode Marketplace.
+  * **Tech:** JavaScript, Node.js, VSCode API.
+
+* **[Accident Severity Analysis](https://medium.com/@chris.ricardo.r.m/ibm-capstone-project-accident-severity-report-644224af9820)**
+  * *Data Science research leveraging predictive modeling for infrastructure safety.*
+  * **Outcome:** Engineered a robust ML pipeline to classify severity with high precision.
+  * **Tech:** Python, Scikit-Learn, Pandas, IBM Watson Studio.
 
 ### 🔧 Tools & Technologies
 ---
-**Backend & Cloud** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-:--- | :---
-**Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-**Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-<p align="center">
-  <i>"Analytical mindset with a focus on detail and high-quality software delivery."</i>
-</p>
+| Category | Stack |
+| :--- | :--- |
+| **Backend & Architecture** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB000?style=flat-square&logo=github-actions&logoColor=white) ![YAML](https://img.shields.io/badge/Declarative_Config-CB171E?style=flat-square&logo=yaml&logoColor=white) |
+| **AI & Databases** | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=googlegemini&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
