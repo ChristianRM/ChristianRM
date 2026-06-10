@@ -32,7 +32,12 @@
 ### 🏗️ Featured Projects
 ---
 
-* **[VSCode Extension: Express Skeleton](https://marketplace.visualstudio.com/items?itemName=ChristianRM.express-skeleton)**
+* **[TagPix: AI-Powered Android Application (Gemini Integration)](https://github.com/ChristianRM/TagPix)**
+  * *<strong>AI-driven</strong> local image indexing and smart tagging engine running entirely on-device.*
+  * **Core Features:** Automated multi-label image categorization, contextual search execution, and a custom batch-tagging manager integrated with the native media gallery.
+  * **Tech:** Kotlin/Android SDK, Jetpack Compose, Local AI Inference, Room Database.
+
+* **[Express Skeleton: VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ChristianRM.express-skeleton)**
   * *Architectural tool for standardized backend scaffolding and boilerplate reduction.*
   * **Impact:** **5,900+ installs** on the VSCode Marketplace.
   * **Tech:** JavaScript, Node.js, VSCode API.
@@ -48,5 +53,6 @@
 | Category | Stack |
 | :--- | :--- |
 | **Backend & Architecture** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB000?style=flat-square&logo=github-actions&logoColor=white) ![YAML](https://img.shields.io/badge/Declarative_Config-CB171E?style=flat-square&logo=yaml&logoColor=white) |
-| **AI & Databases** | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=googlegemini&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Mobile & Frontend** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB000?style=flat-square&logo=github-actions&logoColor=white) |
+| **AI & Databases** | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=googlegemini&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
