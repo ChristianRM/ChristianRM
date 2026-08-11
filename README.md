@@ -1,8 +1,5 @@
-<h1 align="center">Christian Rincón | Senior Software Engineer</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E11FF&center=true&vCenter=true&width=600&lines=Distributed+Systems+Architecture;GCP+Certified+Engineer;Event-Driven+Solutions;High-Availability+Design">
-</h1>
+<h1 align="center">Christian Rincón</h1>
+<h3 align="center">Senior Software Engineer &bull; Backend & Systems Integration</h3>
 
 <h1 align="center">
 <a href="https://www.linkedin.com/in/christian-rincon-dev" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
