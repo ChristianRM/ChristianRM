@@ -39,7 +39,7 @@
 
 * **[Express Skeleton: VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ChristianRM.express-skeleton)**
   * *Architectural tool for standardized backend scaffolding and boilerplate reduction.*
-  * **Impact:** **5,900+ installs** on the VSCode Marketplace.
+  * **Impact:** **6,000+ installs** on the VSCode Marketplace.
   * **Tech:** JavaScript, Node.js, VSCode API.
 
 * **[Accident Severity Analysis](https://medium.com/@chris.ricardo.r.m/ibm-capstone-project-accident-severity-report-644224af9820)**
