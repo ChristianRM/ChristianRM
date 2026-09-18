@@ -44,10 +44,10 @@
   * **Outcome:** Engineered a robust ML pipeline to classify severity with high precision.
   * **Tech:** Python, Scikit-Learn, Pandas, IBM Watson Studio.
  
-* **[ReferLooker: Automated LinkedIn Sourcing & AI Grading Engine](https://github.com/ChristianRM/referlooker)**
-  * *Background recruitment automation pipeline utilizing Google X-Ray search, browser emulation, and local LLM evaluation.*
-  * **Core Features:** Session-persistent Playwright scraping with automated PDF-export parsing and dynamic HTML fallbacks, geographic validation filters, and multi-criteria candidate grading using local Ollama models.
-  * **Tech:** Python, Playwright, Ollama (Llama 3.1), PyPDF, Interactive CLI Database Manager.
+* **[ReferLooker: AI-Powered Candidate Sourcing & ATS Platform](https://github.com/ChristianRM/referlooker)**
+  * *Autonomous recruitment intelligence platform combining NL-to-Boolean query synthesis, multi-criteria local LLM screening, and real-time ATS pipeline management.*
+  * **Core Features:** Automated Job Description-to-Boolean (Google X-Ray) query compiler, Chain-of-Thought (CoT) geofencing and tech stack evaluation using local Ollama models (zero API cost / data privacy), and a reactive Kanban ATS with AI Copilot Studio and SSE live streaming.
+  * **Tech:** Python, Flask, Ollama (Llama 3), SQLite, REST APIs, Server-Sent Events (SSE), Vanilla JS/CSS3.
 
 ### 🔧 Tools & Technologies
 ---
