@@ -1,5 +1,5 @@
 <h1 align="center">Christian Rincón</h1>
-<h3 align="center">Senior Software Engineer &bull; Backend & Systems Integration</h3>
+<h3 align="center">Senior Software Engineer &bull; AI & Distributed Systems Architect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-rincon-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:christian.r.m.job@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,11 +14,11 @@
 ### ⚡ Professional Overview
 ---
 
-9+ years of experience leading the design and implementation of high-throughput distributed systems. Specialized in **Architectural Strategy**, **Declarative System Design**, and systems integration across Go, Python, TypeScript, and GCP environments.
+9+ years of experience leading the design and implementation of high-throughput distributed systems and production LLM-based architectures. Specialized in **Architectural Strategy**, **Semantic Search & Retrieval**, and systems integration across Go, Python, TypeScript, and GCP environments.
 
-* **Systems Integration & Latency Optimization:** Proven track record transitioning legacy batch workloads into real-time pipelines and reducing system cycle times by up to 35%.
-* **Enterprise Infrastructure & APIs:** GCP Associate Cloud Engineer designing declarative YAML configuration engines and high-throughput REST APIs for mission-critical client platforms.
-* **AI-Assisted Engineering & Automation:** Applying modern LLM workflows and local AI inference to accelerate development velocity and build production-ready data pipelines.
+- **Systems Integration & Latency Optimization:** Proven track record transitioning legacy batch workloads into real-time pipelines and reducing system cycle times by up to 35%.
+- **Enterprise Infrastructure & APIs:** GCP Associate Cloud Engineer designing declarative YAML configuration engines and high-throughput REST APIs for mission-critical platforms.
+- **LLM Systems & Production Automation:** Architecting local and cloud-based LLM inference pipelines (Ollama, Gemini API), structured output extraction, and automated LLM-as-a-Judge evaluation frameworks.
 
 ### 🏗️ Featured Projects
 ---
@@ -27,7 +27,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 ReferLooker</h3>
-      <p>Automated recruitment intelligence combining Boolean query synthesis, local LLM evaluation via Ollama, and real-time ATS Kanban pipeline.</p>
+      <p>Autonomous candidate sourcing and evaluation pipeline combining Playwright automation with local LLM inference (Ollama) for LLM-as-a-Judge scoring.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=ollama&logoColor=white" />
@@ -52,7 +52,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏷️ TagPix</h3>
-      <p>Local image indexing and semantic search Android app powered by on-device and edge Gemini inference.</p>
+      <p>Multimodal semantic indexing and search pipeline powered by Gemini Flash API, quota rate-limiting, and local persistence for instant retrieval.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-1e293b?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
-#### **AI Engineering, Data & Persistence**
+#### **AI Systems, Data Pipelines & Persistence**
 <p>
   <img src="https://img.shields.io/badge/Google_Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=ollama&logoColor=white" />
