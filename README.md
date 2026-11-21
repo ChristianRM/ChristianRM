@@ -19,11 +19,28 @@
 - **Systems Integration & Latency Optimization:** Proven track record transitioning legacy batch workloads into real-time pipelines and reducing system cycle times by up to 35%.
 - **Enterprise Infrastructure & APIs:** GCP Associate Cloud Engineer designing declarative YAML configuration engines and high-throughput REST APIs for mission-critical platforms.
 - **LLM Systems & Production Automation:** Architecting local and cloud-based LLM inference pipelines (Ollama, Gemini API), structured output extraction, and automated LLM-as-a-Judge evaluation frameworks.
+- **Edge AI & On-Device Multimodal Search:** Architecting 100% offline vision-language and biometric pipelines (MobileCLIP, ONNX Runtime Mobile, MobileFaceNet) with embedded vector search for private, low-latency mobile retrieval.
 
 ### 🏗️ Featured Projects
 ---
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📸 PhotoFind &nbsp; <img src="https://img.shields.io/badge/Flagship_Project-3B82F6?style=flat-square" alt="Flagship" /></h3>
+      <p>100% on-device AI semantic photo search, face clustering & gallery for Android. Executes Apple MobileCLIP, MobileFaceNet, and ML Kit local inference with zero cloud dependencies, zero recurring costs, and complete privacy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin_2.0-1e293b?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-1e293b?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/ONNX_Mobile-1e293b?style=flat-square&logo=onnx&logoColor=white" />
+        <img src="https://img.shields.io/badge/MobileCLIP-1e293b?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/MobileFaceNet-1e293b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Room_Vector_DB-1e293b?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <br/>
+      <a href="mailto:christian.r.m.job@gmail.com?subject=PhotoFind%20Demo%20Request"><b>🔒 Private Repository &bull; Demo on Request (Google Play release coming soon) →</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 ReferLooker</h3>
@@ -106,6 +123,15 @@
   <img src="https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-1e293b?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-1e293b?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+#### **Mobile & Edge AI Engineering**
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-1e293b?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-1e293b?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime_Mobile-1e293b?style=flat-square&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileCLIP-1e293b?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 #### **Frontend Architecture**
