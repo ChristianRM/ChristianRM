@@ -14,7 +14,7 @@
 ### ⚡ Professional Overview
 ---
 
-9+ years of experience leading the design and implementation of high-throughput distributed systems and production LLM-based architectures. Specialized in **Architectural Strategy**, **Semantic Search & Retrieval**, and systems integration across Go, Python, TypeScript, and GCP environments.
+10+ years of experience leading the design and implementation of high-throughput distributed systems and production LLM-based architectures. Specialized in **Architectural Strategy**, **Semantic Search & Retrieval**, and systems integration across Go, Python, TypeScript, and GCP environments.
 
 - **Systems Integration & Latency Optimization:** Proven track record transitioning legacy batch workloads into real-time pipelines and reducing system cycle times by up to 35%.
 - **Enterprise Infrastructure & APIs:** GCP Associate Cloud Engineer designing declarative YAML configuration engines and high-throughput REST APIs for mission-critical platforms.
