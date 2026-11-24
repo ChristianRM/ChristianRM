@@ -26,9 +26,9 @@
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>📸 PhotoFind &nbsp; <img src="https://img.shields.io/badge/Flagship_Project-3B82F6?style=flat-square" alt="Flagship" /></h3>
-      <p>100% on-device AI semantic photo search, face clustering & gallery for Android. Executes Apple MobileCLIP, MobileFaceNet, and ML Kit local inference with zero cloud dependencies, zero recurring costs, and complete privacy.</p>
+        <td colspan="2" valign="top">
+      <h3>📸 PhotoFind &nbsp; <img src="https://img.shields.io/badge/Closed_Beta-64748B?style=flat-square" alt="Closed Beta" /></h3>
+      <p>100% on-device multimodal semantic photo search & biometric face clustering for Android. Orchestrates MobileCLIP and MobileFaceNet local inference with zero cloud dependencies, zero recurring latency, and complete user privacy.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin_2.0-1e293b?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-1e293b?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Room_Vector_DB-1e293b?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <br/>
-      <a href="mailto:christian.r.m.job@gmail.com?subject=PhotoFind%20Demo%20Request"><b>🔒 Private Repository &bull; Demo on Request (Google Play release coming soon) →</b></a>
+      <a href="mailto:christian.r.m.job@gmail.com?subject=PhotoFind%20Demo%20Request"><b>🔒 Private Core Engine &bull; Interactive APK Demo Available on Request →</b></a>
     </td>
   </tr>
   <tr>
